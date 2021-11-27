@@ -5,20 +5,18 @@
 #### _Practice encoding a sentence from a user._
 
 ## Technologies Used
-
 * _HTML_
 * _CSS_
 * _JavaScript_
 * _jQuery_
 * _Bootstrap_
-* _GitHub repositories_
+* _git_
+* _GitHub_
 
 ## Description
-
 _Practice encoding a sentence from a user._
 
 ## Setup/Installation Requirements
-
 * _Navigate to https://github.com/kpundt93/cipher_
 * _Click on the green "Code" button and copy the repository URL or click on the copy button_
 * _Open the terminal on your desktop_
@@ -31,15 +29,13 @@ _Practice encoding a sentence from a user._
 _Note: when using the commands listed above, do not include the quotation marks. They are used here for readability._
 
 ## Known Bugs
-
 * _No known bugs_
 
 ## Contact Information
-_Katie Pundt, kzpundt@gmail.com_
-_Skylar Brockbank, skylar.brockbank@gmail.com_
+* _Katie Pundt, kzpundt@gmail.com_
+* _Skylar Brockbank, skylar.brockbank@gmail.com_
 
 ## License
-
-_MIT License_
+_MIT License: https://opensource.org/licenses/MIT_
 
 Copyright (c) _2021_ _Katie Pundt and Skylar Brockbank_
